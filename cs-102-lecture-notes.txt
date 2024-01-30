@@ -3,3 +3,10 @@ git push
 git config
 git log
 git add
+
+
+
+
+100 words of what i studied
+
+
