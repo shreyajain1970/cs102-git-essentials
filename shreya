@@ -1,0 +1,9 @@
+generate key pair by code in site
+then to clone a file to git use 
+git clone "ssh link"
+create new file by touch
+use following code
+git add .
+git status
+git commit -m "any note if you want"
+git push
